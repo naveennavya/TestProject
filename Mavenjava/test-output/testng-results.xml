@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8087" started-at="2018-07-11T11:52:09Z" finished-at="2018-07-11T11:52:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8087" started-at="2018-07-11T11:52:09Z" finished-at="2018-07-11T11:52:18Z">
+      <class name="Trimax.firstTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:Trimax.firstTest@26be92ad]" name="test" duration-ms="8029" started-at="2018-07-11T11:52:09Z" finished-at="2018-07-11T11:52:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Trimax.firstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
